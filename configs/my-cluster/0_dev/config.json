@@ -1,0 +1,6 @@
+{
+    "cluster": {
+        "name": "my-cluster",
+        "address": "https://192.168.49.2:8443"
+    }
+}
